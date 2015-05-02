@@ -1461,5 +1461,21 @@ module.exports =
         avatar:"http://www.designbootstrap.com/wp-content/uploads/2014/12/logo.png",
         license:"MIT",
         licenseUrl:"http://www.designbootstrap.com/licenses/"
+    },
+    {
+        name:"Rubino",
+        title:"Rubino",
+        short:"One page portfolio",
+        full:"Rubino is a one page portfolio template for creatives with two branches of specialization",
+        tags:["theme","portfolio","creative","onepage","scroll","easing","color"],
+        imgUrl:"http://susydrake.net/rubino/rubino-preview.png",
+        downloadUrl:"https://github.com/sushimi/Rubino-bootstrap-template/archive/master.zip",
+        sourceUrl:"http://www.fasusthemes.net/",
+        previewUrl:"http://susydrake.net/rubino/",
+        authorUrl:"http://www.fasusthemes.net/",
+        bootstrapVersion:"3.3.4",
+        avatar:"http://www.fasusthemes.net/img/fasuslogo.png",
+        license:"CC 3.0",
+        licenseUrl:""
     }
 ]
